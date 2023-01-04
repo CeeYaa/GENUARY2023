@@ -32,7 +32,7 @@ VL.Skia/2022.5.0-0441[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packa
 
 **03_GlitchArt**
 
-![03_GlitchArt](C:\Users\ceeya\OneDrive\Projects\2302_GENUARY23\_github_GENUARY2023\GENUARY2023\03_GlitchArt\03_GlitchArt.jpg)
+![03_GlitchArt](/03_GlitchArt/03_GlitchArt.jpg)
 
 03_GlitchArt was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
