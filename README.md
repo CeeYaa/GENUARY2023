@@ -12,7 +12,7 @@ Intel i7-9750H / 32 GB RAM
 
 **01_PerfectLoop**
 
-![01_PerfectLoop](\01_PerfectLoop\01_PerfectLoop.jpg)
+![01_PerfectLoop](/01_PerfectLoop/01_PerfectLoop.jpg)
 
 01_PerfectLoop.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
@@ -23,7 +23,7 @@ VL.Stride/2022.5.0-0441
 
 **02_MadeIn10min**
 
-![02_MadeIn10min](\02_MadeIn10min\02_MadeIn10min.jpg)
+![02_MadeIn10min](/02_MadeIn10min/02_MadeIn10min.jpg)
 
 02_MadeIn10min.vl was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
