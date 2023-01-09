@@ -76,3 +76,38 @@ VL.Skia/2022.5.0-0441
 VL.Stride/2022.5.0-0441
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
 
+**07_SampleColorPalette**
+
+![07_SampleColorPalette](/07_SampleColorPalette/07_SampleColorPalette.jpg)
+
+07_SampleColorPalette was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)
+
+**08_SDF**
+
+![08_SDF](/08_SDF/08_SDF.jpg)
+
+08_SDF was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)
+
+**09_Plants**
+
+![09_Plants](/09_Plants/09_Plants.jpg)
+
+09_Plants was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+
+
