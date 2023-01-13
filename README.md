@@ -109,5 +109,36 @@ VL.Skia/2022.5.0-0441
 VL.Stride/2022.5.0-0441
 [VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
 
+**10_GenerativeMusic**
 
+![10_GenerativeMusic](/10_GenerativeMusic/10_GenerativeMusic.jpg)
 
+10_GenerativeMusic was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.Audio/1.0.15](https://www.nuget.org/packages/VL.Audio)
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+**11_Suprematism**
+
+![11_Suprematism](/11_Suprematism/11_Suprematism.jpg)
+
+11_Suprematism was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+**12_Tessellation**
+
+![12_Tessellation](/12_Tessellation/12_Tessellation.jpg)
+
+12_Tessellation was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
