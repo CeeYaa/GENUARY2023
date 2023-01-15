@@ -36,6 +36,9 @@ VL.Skia/2022.5.0-0441[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packa
 
 03_GlitchArt was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
+Assets:
+shaders/DVBTGlitch_TextureFX.sdsl
+
 Dependencies/VL.Nugets:
 shaders/DVBTGlitch_TextureFX.sdsl
 VL.Skia/2022.5.0-0441
@@ -104,6 +107,9 @@ VL.Stride/2022.5.0-0441
 
 09_Plants was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
+Assets:
+PhyllotaxisCSharp/PhyllotaxisCSharp.csproj
+
 Dependencies/VL.Nugets:
 VL.Skia/2022.5.0-0441
 VL.Stride/2022.5.0-0441
@@ -114,6 +120,9 @@ VL.Stride/2022.5.0-0441
 ![10_GenerativeMusic](/10_GenerativeMusic/10_GenerativeMusic.jpg)
 
 10_GenerativeMusic was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Assets:
+AChordArrangementByChatGPT.txt
 
 Dependencies/VL.Nugets:
 VL.Skia/2022.5.0-0441
@@ -137,6 +146,42 @@ VL.Stride/2022.5.0-0441
 ![12_Tessellation](/12_Tessellation/12_Tessellation.jpg)
 
 12_Tessellation was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+**13_SomethingYouVeAlwaysWantedToLearn**
+
+![13_SomethingYouVeAlwaysWantedToLearn](/13_SomethingYouVeAlwaysWantedToLearn/13_SomethingYouVeAlwaysWantedToLearn.jpg)
+
+13_SomethingYouVeAlwaysWantedToLearn was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Assets:
+NH.Ts+dSST.csv
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+**14_Aesemic**
+
+![14_Aesemic](/14_Aesemic/14_Aesemic.jpg)
+
+14_Aesemic was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
+
+Dependencies/VL.Nugets:
+VL.Skia/2022.5.0-0441
+VL.Stride/2022.5.0-0441
+[VL.ScreenRecorder/0.1.4-alpha](https://www.nuget.org/packages/VL.ScreenRecorder)  
+
+**15_SineWaves**
+
+![15_SineWaves](/15_SineWaves/15_SineWaves.jpg)
+
+15_SineWaves was saved with [VVVVGAMMA](https://www.visualprogramming.net/) PREVIEW 2022.5.0-0441
 
 Dependencies/VL.Nugets:
 VL.Skia/2022.5.0-0441
